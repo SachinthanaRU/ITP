@@ -1,0 +1,11 @@
+.sidebar {
+    background-color: blue;
+    color: white;
+    width: 250px;
+    padding: 20px;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+  }
